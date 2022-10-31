@@ -1,0 +1,97 @@
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
+#Tham gia nhóm Zalo để nhận lịch trực tiếp bóng đá: https://zalo.me/g/ctqecx376
+
+#-*-- Livestream -*--#
+
+#EXTINF:-1 group-title="🔴| BEP4.0TV" tvg-logo="https://bep40.me/tv/bep40tvkplus.png", BEP4.0TV (Chỉ phát sóng khi có trận đấu)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/3955444031076
+#EXTINF:-1 group-title="🔴| BEP4.0TV" tvg-logo="https://bep40.me/tv/bep40tvkplus.png", BEP4.0TV1 (Kênh trực tiếp sản phẩm của BEP4.0)
+http://14.225.205.64:5080/LiveApp/streams/bep40tv1.m3u8
+#EXTINF:-1 group-title="🔴| BEP4.0TV" tvg-logo="https://bep40.me/tv/bep40tvkplus.png", BEP4.0TV2 (Chỉ phát sóng khi có trận đấu)
+http://14.225.205.64:5080/LiveApp/streams/bep40tv2.m3u8
+#EXTINF:-1 group-title="🔴| BEP4.0TV" tvg-logo="https://bep40.me/tv/bep40tvkplus.png", BEP4.0TV3 (Chỉ phát sóng khi có trận đấu)
+http://14.225.205.64:5080/LiveApp/streams/bep40tv3.m3u8
+#EXTINF:-1 group-title="🔴| BEP4.0TV" tvg-logo="https://bep40.me/tv/bep40tvkplus.png", BEP4.0TV4 (Chỉ phát sóng khi có trận đấu)
+http://14.225.205.64:5080/LiveApp/streams/bep40tv4.m3u8
+#EXTINF:-1 group-title="🆘| KPLUS" tvg-logo="https://img.vnmedia.xyz/logo/kcinehd.jpg", KPLUS CINE (Có thể dừng phát sóng không báo trước)
+http://14.225.205.64:5080/LiveApp/streams/kpluscine.m3u8
+#EXTINF:-1 group-title="🆘| KPLUS" tvg-logo="https://img.vnmedia.xyz/logo/klifehd.jpg", KPLUS LIFE (Có thể dừng phát sóng không báo trước)
+http://14.225.205.64:5080/LiveApp/streams/kpluslife.m3u8
+#EXTINF:-1 group-title="🆘| KPLUS" tvg-logo="https://img.vnmedia.xyz/logo/ksport1hd.jpg", KSPORT 1 (Có thể dừng phát sóng không báo trước)
+http://14.225.205.64:5080/LiveApp/streams/kplus1.m3u8
+#EXTINF:-1 group-title="🆘| KPLUS" tvg-logo="https://img.vnmedia.xyz/logo/ksport2hd.jpg", KSPORT 2 (Có thể dừng phát sóng không báo trước)
+http://14.225.205.64:5080/LiveApp/streams/kplus2.m3u8
+#EXTINF:-1 group-title="🆘| KPLUS" tvg-logo="https://img.vnmedia.xyz/logo/kkidshd.jpg", KPLUS KIDS (Có thể dừng phát sóng không báo trước)
+http://14.225.205.64:5080/LiveApp/streams/kpluskids.m3u8
+#EXTINF:-1 group-title="🔴| ON SPORTS" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Sports TV 1 (Chỉ phát sóng khi có trận đấu)
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT1/sc-gaFEAA/m40_index.m3u8
+#EXTINF:-1 group-title="🔴| ON SPORTS" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Sports TV 2 (Chỉ phát sóng khi có trận đấu)
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT2/sc-gaFEAA/m40_index.m3u8
+#EXTINF:-1 group-title="🔴| ON SPORTS" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Sports TV 3 (Chỉ phát sóng khi có trận đấu)
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT3/sc-gaFEAA/m40_index.m3u8
+#EXTINF:-1 group-title="🔴🔴| ON SPORTS" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Sports TV 4 (Chỉ phát sóng khi có trận đấu)
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT4/sc-gaFEAA/m40_index.m3u8
+#EXTINF:-1 group-title="🔴| ON SPORTS" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Sports TV 5 (Chỉ phát sóng khi có trận đấu)
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT5/sc-gaFEAA/m40_index.m3u8
+#EXTINF:-1 group-title="🔴| ON SPORTS" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Sports TV 6 (Chỉ phát sóng khi có trận đấu)
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT6/sc-gaFEAA/m40_index.m3u8
+#EXTINF:-1 group-title="🔴| ON SPORTS" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Sports TV 7 (Chỉ phát sóng khi có trận đấu)
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT7/sc-gaFEAA/m40_index.m3u8
+#EXTINF:-1 group-title="🔴| ON SPORTS" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Sports TV 8 (Chỉ phát sóng khi có trận đấu)
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT8/sc-gaFEAA/m40_index.m3u8
+#EXTINF:-1 group-title="🔴🔴| ON SPORTS" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Sports TV 9 (Chỉ phát sóng khi có trận đấu)
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT9/sc-gaFEAA/m40_index.m3u8
+#EXTINF:-1 group-title="🔴| ON SPORTS" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Sports TV 10 (Chỉ phát sóng khi có trận đấu)
+https://livevlive.vtvcab.vn/hls/OS_ONSPORT10/sc-gaFEAA/m40_index.m3u8
+
+#EXTINF:-1 group-title="🔴| FSPORTS" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 1 (Chỉ phát sóng khi có trận đấu)
+https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| FSPORTS" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 2 (Chỉ phát sóng khi có trận đấu)
+https://vips-livecdn.fptplay.net/hdevent/fsport02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| FSPORTS" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 3 (Chỉ phát sóng khi có trận đấu)
+https://vips-livecdn.fptplay.net/hdevent/fsport03_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 4 (Chỉ phát sóng khi có trận đấu)
+https://vips-livecdn.fptplay.net/hdevent/fsport04_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| FSPORTS" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 5 (Chỉ phát sóng khi có trận đấu)
+https://vips-livecdn.fptplay.net/hdevent/fsport05_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| FSPORTS" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 6 (Chỉ phát sóng khi có trận đấu)
+https://vips-livecdn.fptplay.net/hdevent/fsport06_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 7 (Chỉ phát sóng khi có trận đấu)
+https://vips-livecdn.fptplay.net/hdevent/fsport07_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| FSPORTS" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 8 (Chỉ phát sóng khi có trận đấu)
+https://vips-livecdn.fptplay.net/hdevent/fsport08_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| FSPORTS" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 9 (Chỉ phát sóng khi có trận đấu)
+https://vips-livecdn.fptplay.net/hdevent/fsport09_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| FSPORTS" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 10 (Chỉ phát sóng khi có trận đấu)
+https://vips-livecdn.fptplay.net/hdevent/fsport10_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="📺| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV6 FPT 
+https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="📺| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV6 TV360
+http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
+#EXTINF:-1 group-title="📺| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 TV360
+http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
+#EXTINF:-1 group-title="📺| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT
+https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="📺| VTV Cab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON SPORTS+
+https://nvzoftzsvflivcf.vcdn.com.vn/vtvcab6/vtvcab6@high.m3u8
+#EXTINF:-1 group-title="📺| VTV Cab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON SPORTS+ SV2
+https://livevlive.vtvcab.vn/hls/HAY_TV_1924/sc-gaFEAA/m30_index.m3u8
+#EXTINF:-1 group-title="📺| VTV Cab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/773357dd-37b8-4731-ad9a-d4ae900bc733.png?auto=format&fit=max&w=256", ON FOOTBALL
+https://livevlive.vtvcab.vn/hls/OS_BONGDA_HD/sc-gaFEAA/m30_index.m3u8
+#EXTINF:-1 group-title="📺| VTV Cab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/773357dd-37b8-4731-ad9a-d4ae900bc733.png?auto=format&fit=max&w=256", ON FOOTBALL ENG
+https://livevlive.vtvcab.vn/hls/OS_ONFOOTBALLTA/sc-gaFEAQ/m30_index.m3u8
+#EXTINF:-1 group-title="📺| VTV Cab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/773357dd-37b8-4731-ad9a-d4ae900bc733.png?auto=format&fit=max&w=256", ON FOOTBALL ENG
+https://livevlive.vtvcab.vn/hls/OS_ONFOOTBALLTA/sc-gaFEAQ/m30_index.m3u8
+#EXTINF:-1 group-title="📺| VTV Cab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/5b41f2f4-db6f-40ee-8f74-9cb3397f4c0f.png?auto=format&fit=max&w=384", ON SPORTS
+https://livevlive.vtvcab.vn/hls/OS_THETHAO_HD/sc-gaFEAA/m30_index.m3u8
+#EXTINF:-1 group-title="📺| VTV Cab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/5b41f2f4-db6f-40ee-8f74-9cb3397f4c0f.png?auto=format&fit=max&w=384", ON SPORTS ENG
+https://livevlive.vtvcab.vn/hls/OS_ONSPORTTA/sc-gaFEAQ/m30_index.m3u8
+#EXTINF:-1 group-title="📺| VTV Cab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/3b46f497-de0b-4298-9191-bec6456e5330.png?auto=format&fit=max&w=384", ON SPORTS NEWS
+https://livevlive.vtvcab.vn/hls/OS_THETHAO_TINTUC_HD/sc-gaFEAA/m30_index.m3u8
+#EXTINF:-1 group-title="📺| VTV Cab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/3b46f497-de0b-4298-9191-bec6456e5330.png?auto=format&fit=max&w=384", ON SPORTS NEWS ENG
+https://livevlive.vtvcab.vn/hls/OS_ONSPORTNEWSTA/sc-gaFEAQ/m30_index.m3u8
+#EXTINF:-1 group-title="📺| VTV Cab" tvg-logo="https://imgonsport.vtvcab.vn/image-upload/720X405/19717a3c-6ae7-412d-8dc8-9a5b50a4f4dd.jpg?auto=format&fit=max&w=384", ON SPORTS VOLLEY ENG
+https://livevlive.vtvcab.vn/hls/OS_ONVOLLEYBALL/sc-gaFEAQ/m30_index.m3u8
+#EXTINF:-1 group-title="📺| VTV Cab" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg?auto=format&fit=max&w=384", ON GOLF ENG
+https://livevlive.vtvcab.vn/hls/OS_ONGOLFTA/sc-gaFEAQ/m30_index.m3u8
