@@ -3,6 +3,10 @@
 
 #-*-- Livestream -*--#
 
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="FIFA World Cup™-2022" tvg-logo="https://vov.vn/sites/default/files/styles/front_large/public/2022-06/world+cup+2022.png",VN360SPORT
+http://laohac360.duckdns.org:9981/stream/channelnumber/702?auth=Pte-Yz9AnQarWnSQg4cD0TARVbGU
+
 #EXTINF:-1 group-title="🔴| BEP4.0TV" tvg-logo="https://bep40.me/tv/bep40tvkplus.png", BEP4.0TV (Chỉ phát sóng khi có trận đấu)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/3955444031076
 #EXTINF:-1 group-title="🔴| BEP4.0TV" tvg-logo="https://bep40.me/tv/bep40tvkplus.png", BEP4.0TV2 (Chỉ phát sóng khi có trận đấu)
