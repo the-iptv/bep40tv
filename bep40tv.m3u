@@ -4,6 +4,20 @@
 #-*-- Livestream -*--#
 
 
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="FIFA WORLD CUP 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
+http://live.vthanhtivi.pw:8080/vtv2
+#EXTINF:-1 tvg-id="vtv3hd" group-title="FIFA WORLD CUP 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
+http://live.vthanhtivi.pw:8080/vtv3
+#EXTINF:-1 tvg-id="vtv5hd" group-title="FIFA WORLD CUP 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
+http://live.vthanhtivi.pw:8080/vtv5
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="FIFA WORLD CUP 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
+http://live.vthanhtivi.pw:8080/vtv5tnb
+#EXTINF:-1 tvg-id="vtv6hd" group-title="FIFA WORLD CUP 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
+http://live.vthanhtivi.pw:8080/vtvct
+
+
+
 #EXTINF:-1 group-title="FIFA World Cup™-2022" tvg-logo="https://vov.vn/sites/default/files/styles/front_large/public/2022-06/world+cup+2022.png",VN360SPORT
 http://laohac360.duckdns.org:9981/stream/channelnumber/702?auth=Pte-Yz9AnQarWnSQg4cD0TARVbGU
 #EXTINF:-1 group-title="FIFA World Cup™-2022" tvg-logo="https://vov.vn/sites/default/files/styles/front_large/public/2022-06/world+cup+2022.png"",VTV2 (1)
