@@ -6,6 +6,31 @@
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="FIFA World Cup™-2022" tvg-logo="https://vov.vn/sites/default/files/styles/front_large/public/2022-06/world+cup+2022.png",VN360SPORT
 http://laohac360.duckdns.org:9981/stream/channelnumber/702?auth=Pte-Yz9AnQarWnSQg4cD0TARVbGU
+#EXTINF:-1 group-title="FIFA World Cup™-2022" tvg-id="19218a8c1913b27ba7d965b3946f5837",VTV2 (1)
+http://bolero.myftp.org:6001/stream/channelid/210379033?ticket=2910C4C79671F7243B712BEAD4388C219531F61E&profile=pass
+#EXTINF:-1 group-title="FIFA World Cup™-2022" tvg-id="38932830767a3e6e7af2a9696d6017a2",VTV2 (2)
+http://bolero.myftp.org:6001/stream/channelid/807965496?ticket=81CA0DE6C0EEB39200479D53B9C8E3D9AD662D7B&profile=pass
+#EXTINF:-1 group-title="FIFA World Cup™-2022" tvg-id="bdefcf1f556bdabaf0548aa97f330e46",VTV2 (3)
+http://bolero.myftp.org:6001/stream/channelid/533721021?ticket=4A544DC56369324286AD6B3BDD77926D0C23BF10&profile=pass
+#EXTINF:-1 group-title="FIFA World Cup™-2022" tvg-id="03bdcbad930a976db835a43100f197ed",VTV2 (4)
+http://bolero.myftp.org:6001/stream/channelid/768326915?ticket=91EAE5055327C833DA18A36A0A08B0EF5A673593&profile=pass
+#EXTINF:-1 group-title="FIFA World Cup™-2022" tvg-id="607e25328443cd8a5585d4412caed838",VTV3 (1)
+http://bolero.myftp.org:6001/stream/channelid/841317984?ticket=C04441448ED90C1AF356887C773C07BB1F7A0919&profile=pass
+#EXTINF:-1 group-title="FIFA World Cup™-2022" tvg-id="3ebfa1db800ee2a97ae22fb22ea2b09c",VTV3 (2)
+http://bolero.myftp.org:6001/stream/channelid/1537326910?ticket=34D40E25A912D03531DD79DD8A8726F8DB53A078&profile=pass
+#EXTINF:-1 group-title="FIFA World Cup™-2022" tvg-id="c7dfd4bf30b73832a7f69a88fb468569",VTV3 (3)
+http://bolero.myftp.org:6001/stream/channelid/1070915527?ticket=EE70CF1639327D0BBD27A2A3B5B962543C0663C9&profile=pass
+#EXTINF:-1 group-title="FIFA World Cup™-2022" tvg-id="818ce3093cb25aa1f70cffa5f627eccc",VTV3 (4)
+http://bolero.myftp.org:6001/stream/channelid/165907585?ticket=EECF7CD5897FA9DD42D4957E597F3968C8B9DED2&profile=pass
+#EXTINF:-1 group-title="FIFA World Cup™-2022" tvg-id="51585c492f5735550815cd9e82d8663b",VTV5 (1)
+http://bolero.myftp.org:6001/stream/channelid/1230788689?ticket=25499826BD8A9F2285FC59BF81C01C14F5DB56D0&profile=pass
+#EXTINF:-1 group-title="FIFA World Cup™-2022" tvg-id="8ee6434c824fe32cb08f1348314ac9a8",VTV5 (2)
+http://bolero.myftp.org:6001/stream/channelid/1279518350?ticket=BC9DC13840B04AC5F704112E7D76E68DF4287DE6&profile=pass
+#EXTINF:-1 group-title="FIFA World Cup™-2022" tvg-id="2e001c3f1cf9b3fdf1ca329abecd40f2",VTV5 (3)
+http://bolero.myftp.org:6001/stream/channelid/1058799662?ticket=257043959DE1391A528CC4A979529C3E054A6D7A&profile=pass
+#EXTINF:-1 group-title="FIFA World Cup™-2022" tvg-id="f9561f2ad1d29c63e507b8655796ec07",VTV5 (4)
+http://bolero.myftp.org:6001/stream/channelid/706696953?ticket=E64ACB785C2C58AC15E2084E6FE355F6AC18E8E3&profile=pass
+
 
 #EXTINF:-1 group-title="🔴| BEP4.0TV" tvg-logo="https://bep40.me/tv/bep40tvkplus.png", BEP4.0TV (Chỉ phát sóng khi có trận đấu)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/3955444031076
