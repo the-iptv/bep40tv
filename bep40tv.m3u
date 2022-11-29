@@ -55,7 +55,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/senishop
 #EXTINF:-1 group-title="🔴| BEP4.0TV" tvg-logo="https://bep40.me/tv/bep40tvkplus.png", BEP4.0TV3 (Chỉ phát sóng khi có trận đấu)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.ok.ru/live/3955444031076
 #EXTINF:-1 group-title="🔴| B4TV1" tvg-logo="https://bep40.me/tv/bep40tvkplus.png", B4TV1 (Kênh trực tiếp sản phẩm của BEP4.0)
-http://42.96.3.70:5080/LiveApp/streams/b4tv1.m3u8
+http://103.74.103.181:5080/LiveApp/streams/b4tv1.m3u8
 #EXTINF:-1 group-title="🔴| B4TV2" tvg-logo="https://bep40.me/tv/bep40tvkplus.png", B4TV2 (Chỉ phát sóng khi có trận đấu)
 http://14.225.205.64:5080/LiveApp/streams/b4tv2.m3u8
 #EXTINF:-1 group-title="🔴| B4TV3" tvg-logo="https://bep40.me/tv/bep40tvkplus.png", B4TV3 (Chỉ phát sóng khi có trận đấu)
