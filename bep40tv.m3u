@@ -17,6 +17,8 @@ http://live.vthanhtivi.pw:8080/vtv5tnb
 http://live.vthanhtivi.pw:8080/vtvct
 #EXTINF:-1 tvg-id="Match.ru" group-title="FIFA WORLD CUP 2022" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Маtch ТV
 http://sg.cvacetv.ga/matchtv
+#EXTINF:-1 group-title="FIFA WORLD CUP 2022" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/wc1.png",CVmedia Live World Cup 1
+http://vn1.cvacetv.ga/WC1
 
 
 
